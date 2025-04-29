@@ -48,9 +48,9 @@ A lightweight JavaScript app with interactive UI elements (details can be expand
 
 ## 📫 Contact
 
-- **Email**: (Add your email here)
-- **LinkedIn**: (Add your LinkedIn URL here)
-- **Portfolio/Website**: (Optional)
+- **Email**: minesaldi@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/salman-fadi/
+- **Portfolio/Website**: https://minesaldi.wixsite.com/portfolio
 
 ---
 
